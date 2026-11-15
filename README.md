@@ -50,6 +50,15 @@ Each mission is self-contained in its designated folder with an independent `REA
 
 ---
 
+## My Learning
+
+Throughout the initial missions of this assignment, several core computing paradigms have been clarified through hands-on practice:
+1. **The Unix Philosophy & Stream Pipeline Power:** Discovered how combining independent single-purpose CLI utilities using pipes (`|`) and redirection (`>`, `>>`) allows flexible data manipulation without graphical overhead.
+2. **Operating System Resource Isolation:** Understood how the OS kernel schedules CPU threads, protects memory spaces between distinct processes using PIDs, and enforces POSIX access control permissions (`rwx`).
+3. **Low-Level Data Representation:** Gained deep appreciation for how human ideas (text, numbers) are reduced to binary patterns (bits and bytes) and hexadecimal representations, and how standards like UTF-8 allow global text interchange.
+
+---
+
 ## Instructions for Running the Python Number Converter
 
 The interactive number conversion tool is located in `mission-05-numbers-data/`. To execute the program:
