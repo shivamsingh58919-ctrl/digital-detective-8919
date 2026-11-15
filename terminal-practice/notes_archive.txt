@@ -1,0 +1,2 @@
+Line 1: Exploring terminal fundamentals.
+Line 2: Appending data safely with double chevrons.
